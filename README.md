@@ -1,6 +1,19 @@
 # qr_code_scanner
 
-A new Flutter project.
+changed in android/app/build.gradle:
+ defaultConfig {
+  minSdkVersion 21  
+ }
+
+ updated latest version of kotlin: 
+ android/build.gradle
+ buildscript {
+ ext.kotlin_version = '1.9.0'
+}
+
+EveryThing is Changed No Need To Worry just Mentioning 🐱‍👤
+
+
 
 ## Getting Started
 
