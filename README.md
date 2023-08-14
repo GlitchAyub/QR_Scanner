@@ -1,12 +1,14 @@
 # qr_code_scanner
 
 changed in android/app/build.gradle:
+
  defaultConfig {
   minSdkVersion 21  
  }
 
  updated latest version of kotlin: 
  android/build.gradle
+ 
  buildscript {
  ext.kotlin_version = '1.9.0'
 }
